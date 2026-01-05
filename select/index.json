@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ユメミガチガール",
+  "base_artist": "BOY MEETS HARU",
+  "createdAt": "2026-01-05T13:27:24.166643Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユメミガチガール",
+      "artist": "BOY MEETS HARU",
+      "has_synced": false,
+      "path": "select/pl_01_ユメミガチガール_BOY_MEETS_HARU.txt"
+    }
+  ]
+}
